@@ -39,5 +39,5 @@ Project ini merupakan migrasi aplikasi Inventory Management System dari PHP Nati
 ### Langkah-Langkah Instalasi
 1. Clone / Download Repository:
    ```bash
-   git clone <url-repository-kamu>
+   git clone [https://github.com/Arstaaw1/inventory-laravel.git](https://github.com/Arstaaw1/inventory-laravel.git)
    cd inventory-laravel
